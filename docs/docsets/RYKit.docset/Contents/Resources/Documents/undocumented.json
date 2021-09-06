@@ -1,0 +1,4261 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Common/CommonConstants.swift",
+      "line": 12,
+      "symbol": "isIphoneXOrLater",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Common/CommonConstants.swift",
+      "line": 23,
+      "symbol": "is_landscape",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Common/CommonConstants.swift",
+      "line": 24,
+      "symbol": "is_portrait",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Common/RYUIHelper.swift",
+      "line": 13,
+      "symbol": "RYUIHelper",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Constants/AppConstant.swift",
+      "line": 14,
+      "symbol": "AppConstants.φ",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Constants/AppConstant.swift",
+      "line": 48,
+      "symbol": "AppConstants.searchBarHeight",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Constants/AppConstant.swift",
+      "line": 50,
+      "symbol": "AppConstants.hairlINE",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/DataSource/StaticTableViewCell.swift",
+      "line": 9,
+      "symbol": "StaticTableViewCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/DataSource/UIView+Swizzle.swift",
+      "line": 49,
+      "symbol": "UIView.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/DataSource/UIViewController+Swizzle.swift",
+      "line": 40,
+      "symbol": "UIViewController.doBadSwizzleStuff()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/DataSource/UIViewController+Swizzle.swift",
+      "line": 73,
+      "symbol": "UIViewController.ry_traitCollectionDidChange(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/DataSource/ValueCell.swift",
+      "line": 9,
+      "symbol": "ValueCell.Value",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/DataSource/ValueCellDataSource.swift",
+      "line": 145,
+      "symbol": "ValueCellDataSource.deleteRow(value:cellClass:atIndex:inSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/DataSource/ValueCellDataSource.swift",
+      "line": 286,
+      "symbol": "ValueCellDataSource.numberOfSections(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/DataSource/ValueCellDataSource.swift",
+      "line": 290,
+      "symbol": "ValueCellDataSource.collectionView(_:numberOfItemsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/DataSource/ValueCellDataSource.swift",
+      "line": 295,
+      "symbol": "ValueCellDataSource.collectionView(_:cellForItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/DataSource/ValueCellDataSource.swift",
+      "line": 309,
+      "symbol": "ValueCellDataSource.numberOfSections(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/DataSource/ValueCellDataSource.swift",
+      "line": 313,
+      "symbol": "ValueCellDataSource.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/DataSource/ValueCellDataSource.swift",
+      "line": 317,
+      "symbol": "ValueCellDataSource.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Debugging/Console.swift",
+      "line": 9,
+      "symbol": "Console",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Debugging/Console.swift",
+      "line": 167,
+      "symbol": "Console",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Debugging/Console.swift",
+      "line": 176,
+      "symbol": "Console.LevelOptions.debug",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Debugging/Console.swift",
+      "line": 178,
+      "symbol": "Console.LevelOptions.info",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Debugging/Console.swift",
+      "line": 180,
+      "symbol": "Console.LevelOptions.warn",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Debugging/Console.swift",
+      "line": 182,
+      "symbol": "Console.LevelOptions.error",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Debugging/Console.swift",
+      "line": 184,
+      "symbol": "Console.LevelOptions.none",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Debugging/Console.swift",
+      "line": 186,
+      "symbol": "Console.LevelOptions.all",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Debugging/Console.swift",
+      "line": 212,
+      "symbol": "Console.PrefixOptions.className",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Debugging/Console.swift",
+      "line": 214,
+      "symbol": "Console.PrefixOptions.functionName",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Debugging/Console.swift",
+      "line": 216,
+      "symbol": "Console.PrefixOptions.lineNumber",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Debugging/Console.swift",
+      "line": 218,
+      "symbol": "Console.PrefixOptions.date",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Debugging/Console.swift",
+      "line": 220,
+      "symbol": "Console.PrefixOptions.none",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Debugging/Console.swift",
+      "line": 222,
+      "symbol": "Console.PrefixOptions.all",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Debugging/Console.swift",
+      "line": 224,
+      "symbol": "Console.PrefixOptions.basic",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Debugging/FatalReason.swift",
+      "line": 38,
+      "symbol": "FatalReason.subclassMustImplement",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Debugging/LoggerDelegate.swift",
+      "line": 13,
+      "symbol": "LogLevel.debug",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Debugging/LoggerDelegate.swift",
+      "line": 15,
+      "symbol": "LogLevel.verbose",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Debugging/LoggerDelegate.swift",
+      "line": 17,
+      "symbol": "LogLevel.info",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Debugging/LoggerDelegate.swift",
+      "line": 19,
+      "symbol": "LogLevel.application",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Debugging/LoggerDelegate.swift",
+      "line": 21,
+      "symbol": "LogLevel.warning",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Debugging/LoggerDelegate.swift",
+      "line": 23,
+      "symbol": "LogLevel.error",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Debugging/LoggerDelegate.swift",
+      "line": 25,
+      "symbol": "LogLevel.name()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Debugging/LoggerDelegate.swift",
+      "line": 47,
+      "symbol": "LoggerDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Debugging/LoggerUtils.swift",
+      "line": 12,
+      "symbol": "LoggerUtils",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/AVAssetExtension.swift",
+      "line": 12,
+      "symbol": "AVAsset.videoDuration(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/ArrayExtension.swift",
+      "line": 31,
+      "symbol": "Array.subscript(guarded:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/ArrayExtension.swift",
+      "line": 86,
+      "symbol": "Array.firstElement(type:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/CGSize+Extension.swift",
+      "line": 15,
+      "symbol": "CGSize.init(size:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/CollectionExtension.swift",
+      "line": 14,
+      "symbol": "Sequence.unique()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/CollectionExtension.swift",
+      "line": 21,
+      "symbol": "Sequence.unique(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/CollectionExtension.swift",
+      "line": 34,
+      "symbol": "Array.uniqueInPlace(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/CollectionExtension.swift",
+      "line": 67,
+      "symbol": "RangeReplaceableCollection.remove(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/CollectionExtension.swift",
+      "line": 80,
+      "symbol": "RangeReplaceableCollection.move(_:to:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/DataExtension.swift",
+      "line": 21,
+      "symbol": "Data.init(bytes:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/Date+Extension.swift",
+      "line": 12,
+      "symbol": "Date.next()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/Date+Extension.swift",
+      "line": 17,
+      "symbol": "Date.at(_:minutes:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/Date+Extension.swift",
+      "line": 21,
+      "symbol": "Date.data_form(string:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/Date+Extension.swift",
+      "line": 24,
+      "symbol": "Date.data_form(string:formatter:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/Date+Extension.swift",
+      "line": 37,
+      "symbol": "Date.string_from(formatter:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/Date+Extension.swift",
+      "line": 52,
+      "symbol": "Date.getDayAndWeek()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/Date+Extension.swift",
+      "line": 59,
+      "symbol": "Date.getAbbreviationWeekDay(weekDay:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/Date+Extension.swift",
+      "line": 73,
+      "symbol": "Date.getAbbreviationMonth(unixDate:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/Date+Extension.swift",
+      "line": 114,
+      "symbol": "NSDate.date_form(string:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/Date+Extension.swift",
+      "line": 118,
+      "symbol": "NSDate.date_from(string:formatter:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/Date+Extension.swift",
+      "line": 230,
+      "symbol": "DateConstants",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/Date+Extension.swift",
+      "line": 231,
+      "symbol": "DateConstants.locationBr",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/Date+Extension.swift",
+      "line": 232,
+      "symbol": "DateConstants.dateTimeBr",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/Date+Extension.swift",
+      "line": 233,
+      "symbol": "DateConstants.dateTimeBrHyphen",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/Date+Extension.swift",
+      "line": 234,
+      "symbol": "DateConstants.dateBr",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/Date+Extension.swift",
+      "line": 235,
+      "symbol": "DateConstants.dateBrHyphen",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/Date+Extension.swift",
+      "line": 236,
+      "symbol": "DateConstants.dateYMD",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/Date+Extension.swift",
+      "line": 237,
+      "symbol": "DateConstants.dateYMDHMS",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/Date+Extension.swift",
+      "line": 242,
+      "symbol": "Date.constants(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/Date+Extension.swift",
+      "line": 246,
+      "symbol": "Date.getTime(timeStamp:format:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/Date+Extension.swift",
+      "line": 257,
+      "symbol": "Date.toString(withFormat:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/Date+Extension.swift",
+      "line": 265,
+      "symbol": "Date.getTimeInterval(formatTime:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/Dictionary+Helpers.swift",
+      "line": 50,
+      "symbol": "Dictionary.subscript(_:as:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/Dictionary+Helpers.swift",
+      "line": 64,
+      "symbol": "Dictionary.jsonString",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/DispathQueueExtension.swift",
+      "line": 12,
+      "symbol": "Closure",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/DispathQueueExtension.swift",
+      "line": 14,
+      "symbol": "DispatchQueue.isExecutedOnMainThread(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/DispathQueueExtension.swift",
+      "line": 21,
+      "symbol": "DispatchQueue.safeUISync(execute:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/DispathQueueExtension.swift",
+      "line": 26,
+      "symbol": "DispatchQueue.safeUISync(execute:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/DispathQueueExtension.swift",
+      "line": 31,
+      "symbol": "DispatchQueue.safeUISync(flags:execute:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/DispathQueueExtension.swift",
+      "line": 50,
+      "symbol": "DispatchQueue.safeSync(execute:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/DispathQueueExtension.swift",
+      "line": 57,
+      "symbol": "DispatchQueue.safeSync(execute:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/DispathQueueExtension.swift",
+      "line": 64,
+      "symbol": "DispatchQueue.safeSync(flags:execute:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/DispathQueueExtension.swift",
+      "line": 84,
+      "symbol": "DispatchTime.seconds(elapsedSince:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/FileManager+Extension.swift",
+      "line": 10,
+      "symbol": "LocationKind",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/FileManager+Extension.swift",
+      "line": 11,
+      "symbol": "LocationKind.file",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/FileManager+Extension.swift",
+      "line": 12,
+      "symbol": "LocationKind.folder",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/FileManager+Extension.swift",
+      "line": 16,
+      "symbol": "FileManager.locationExists(at:kind:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/FileManager+Extension.swift",
+      "line": 39,
+      "symbol": "FileManager.removeAllCache()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/FileManager+Extension.swift",
+      "line": 45,
+      "symbol": "FileManager.exists(at:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/FileManager+Extension.swift",
+      "line": 51,
+      "symbol": "FileManager.remove(at:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/IndexPathExtension.swift",
+      "line": 12,
+      "symbol": "IndexPath.zero",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/IndexPathExtension.swift",
+      "line": 16,
+      "symbol": "IndexPath.with(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/IndexPathExtension.swift",
+      "line": 22,
+      "symbol": "IndexPath.previous()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/IndexPathExtension.swift",
+      "line": 30,
+      "symbol": "IndexPath.next(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/IndexPathExtension.swift",
+      "line": 40,
+      "symbol": "IndexPath.next(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/MSOperationSafeGuard.swift",
+      "line": 14,
+      "symbol": "MSOperationSafeGuard",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/MSOperationSafeGuard.swift",
+      "line": 40,
+      "symbol": "MSOperationSafeGuard.operationSafetyGuard",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NSArray+Extension.swift",
+      "line": 13,
+      "symbol": "NSArray.uniq(source:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NSAttributedStringExtension.swift",
+      "line": 208,
+      "symbol": "NSAttributedString.CaretDirection.none",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NSAttributedStringExtension.swift",
+      "line": 209,
+      "symbol": "NSAttributedString.CaretDirection.up",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NSAttributedStringExtension.swift",
+      "line": 210,
+      "symbol": "NSAttributedString.CaretDirection.down",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NSAttributedStringExtension.swift",
+      "line": 211,
+      "symbol": "NSAttributedString.CaretDirection.back",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NSAttributedStringExtension.swift",
+      "line": 212,
+      "symbol": "NSAttributedString.CaretDirection.forward",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NSAttributedStringExtension.swift",
+      "line": 234,
+      "symbol": "NSAttributedString.BulletStyle.default",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NSAttributedStringExtension.swift",
+      "line": 235,
+      "symbol": "NSAttributedString.BulletStyle.ordinal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NSCalendar+Extension.swift",
+      "line": 12,
+      "symbol": "NSCalendar.usLocaleCurrentCalendar()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NotificationCenterExtension.swift",
+      "line": 147,
+      "symbol": "NotificationCenter.Event",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NotificationCenterExtension.swift",
+      "line": 149,
+      "symbol": "NotificationCenter.on",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NotificationCenterExtension.swift",
+      "line": 156,
+      "symbol": "NotificationCenter.Event",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NotificationCenterExtension.swift",
+      "line": 158,
+      "symbol": "NotificationCenter.Event.observe(_:object:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NotificationCenterExtension.swift",
+      "line": 163,
+      "symbol": "NotificationCenter.Event.observe(_:object:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NotificationCenterExtension.swift",
+      "line": 170,
+      "symbol": "NotificationCenter.Event.applicationDidFinishLaunching(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NotificationCenterExtension.swift",
+      "line": 175,
+      "symbol": "NotificationCenter.Event.applicationWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NotificationCenterExtension.swift",
+      "line": 180,
+      "symbol": "NotificationCenter.Event.applicationDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NotificationCenterExtension.swift",
+      "line": 185,
+      "symbol": "NotificationCenter.Event.applicationDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NotificationCenterExtension.swift",
+      "line": 190,
+      "symbol": "NotificationCenter.Event.applicationWillResignActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NotificationCenterExtension.swift",
+      "line": 195,
+      "symbol": "NotificationCenter.Event.applicationDidReceiveMemoryWarning(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NotificationCenterExtension.swift",
+      "line": 200,
+      "symbol": "NotificationCenter.Event.applicationWillTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NotificationCenterExtension.swift",
+      "line": 207,
+      "symbol": "NotificationCenter.Event.windowDidBecomeHidden(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NotificationCenterExtension.swift",
+      "line": 212,
+      "symbol": "NotificationCenter.Event.windowDidBecomeVisible(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NotificationCenterExtension.swift",
+      "line": 219,
+      "symbol": "NotificationCenter.Event.accessibilityReduceTransparencyStatusDidChange(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NotificationCenterExtension.swift",
+      "line": 224,
+      "symbol": "NotificationCenter.Event.accessibilityVoiceOverStatusDidChange(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NotificationCenterExtension.swift",
+      "line": 235,
+      "symbol": "NotificationObject",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NotificationCenterExtension.swift",
+      "line": 236,
+      "symbol": "NotificationObject.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NotificationCenterExtension.swift",
+      "line": 237,
+      "symbol": "NotificationObject.object",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NotificationCenterExtension.swift",
+      "line": 238,
+      "symbol": "NotificationObject.userInfo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NotificationCenterExtension.swift",
+      "line": 241,
+      "symbol": "NotificationObject",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NotificationCenterExtension.swift",
+      "line": 242,
+      "symbol": "NotificationObject.object",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NotificationCenterExtension.swift",
+      "line": 246,
+      "symbol": "NotificationObject.userInfo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NotificationCenterExtension.swift",
+      "line": 252,
+      "symbol": "NotificationCenter.post(_:delayInterval:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NotificationCenterExtension.swift",
+      "line": 262,
+      "symbol": "NotificationCenter.Event",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NotificationCenterExtension.swift",
+      "line": 264,
+      "symbol": "NotificationCenter.Event.observe(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/NotificationCenterExtension.swift",
+      "line": 272,
+      "symbol": "NotificationCenter.Event.observe(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/OperationQueue+Extension.swift",
+      "line": 13,
+      "symbol": "OperationQueue.init(qualityOfService:maxConcurrentOperationCount:name:underlyingQueue:startSuspended:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/ProcessInfoExtension.swift",
+      "line": 23,
+      "symbol": "ProcessInfo.contains(key:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/ProcessInfoExtension.swift",
+      "line": 46,
+      "symbol": "ProcessInfo.Argument",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/ProcessInfoExtension.swift",
+      "line": 83,
+      "symbol": "ProcessInfo.Argument.getValue()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/ProcessInfoExtension.swift",
+      "line": 100,
+      "symbol": "ProcessInfo.Argument.setInMemoryValue(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/ProcessInfoExtension.swift",
+      "line": 113,
+      "symbol": "ProcessInfo.Arguments",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/ProcessInfoExtension.swift",
+      "line": 116,
+      "symbol": "ProcessInfo.Arguments",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/ProcessInfoExtension.swift",
+      "line": 117,
+      "symbol": "ProcessInfo.Arguments.isTesting",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/ProcessInfoExtension.swift",
+      "line": 122,
+      "symbol": "ProcessInfo.Arguments.isDebug",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/ProcessInfoExtension.swift",
+      "line": 127,
+      "symbol": "ProcessInfo.Arguments.isAnalyticsDebugEnabled",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/ProcessInfoExtension.swift",
+      "line": 136,
+      "symbol": "ProcessInfo.Arguments.isAllInterstitialsEnabled",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/StringExtension.swift",
+      "line": 366,
+      "symbol": "String.asDictionary",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/StringExtension.swift",
+      "line": 378,
+      "symbol": "String.drop0x",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/StringExtension.swift",
+      "line": 385,
+      "symbol": "String.add0x",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/StringExtension.swift",
+      "line": 445,
+      "symbol": "String.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/TimeZone+Identifier.swift",
+      "line": 14,
+      "symbol": "TimeZone.utc",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/TimeZone+Identifier.swift",
+      "line": 15,
+      "symbol": "TimeZone.gh",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/TimeZone+Identifier.swift",
+      "line": 16,
+      "symbol": "TimeZone.et",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/TimeZone+Identifier.swift",
+      "line": 17,
+      "symbol": "TimeZone.dz",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/TimeZone+Identifier.swift",
+      "line": 18,
+      "symbol": "TimeZone.er",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/TimeZone+Identifier.swift",
+      "line": 19,
+      "symbol": "TimeZone.ml",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/TimeZone+Identifier.swift",
+      "line": 20,
+      "symbol": "TimeZone.cf",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/TimeZone+Identifier.swift",
+      "line": 21,
+      "symbol": "TimeZone.gm",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/TimeZone+Identifier.swift",
+      "line": 22,
+      "symbol": "TimeZone.gw",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/TimeZone+Identifier.swift",
+      "line": 23,
+      "symbol": "TimeZone.mw",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/TimeZone+Identifier.swift",
+      "line": 24,
+      "symbol": "TimeZone.cg",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/TimeZone+Identifier.swift",
+      "line": 25,
+      "symbol": "TimeZone.bi",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/TimeZone+Identifier.swift",
+      "line": 26,
+      "symbol": "TimeZone.eg",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/TimeZone+Identifier.swift",
+      "line": 27,
+      "symbol": "TimeZone.ma",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/TimeZone+Identifier.swift",
+      "line": 28,
+      "symbol": "TimeZone.es",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/TimeZone+Identifier.swift",
+      "line": 29,
+      "symbol": "TimeZone.gn",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/TimeZone+Identifier.swift",
+      "line": 30,
+      "symbol": "TimeZone.sn",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/TimeZone+Identifier.swift",
+      "line": 31,
+      "symbol": "TimeZone.tz",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/TimeZone+Identifier.swift",
+      "line": 32,
+      "symbol": "TimeZone.dj",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/URLExtension.swift",
+      "line": 12,
+      "symbol": "URL.init(string:queryParameters:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/URLExtension.swift",
+      "line": 39,
+      "symbol": "URL.Scheme",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/URLExtension.swift",
+      "line": 52,
+      "symbol": "URL.Scheme",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/URLExtension.swift",
+      "line": 58,
+      "symbol": "URL.Scheme",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/URLExtension.swift",
+      "line": 59,
+      "symbol": "URL.Scheme.none",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/URLExtension.swift",
+      "line": 60,
+      "symbol": "URL.Scheme.https",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/URLExtension.swift",
+      "line": 61,
+      "symbol": "URL.Scheme.http",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/URLExtension.swift",
+      "line": 62,
+      "symbol": "URL.Scheme.file",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/URLExtension.swift",
+      "line": 63,
+      "symbol": "URL.Scheme.tel",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/URLExtension.swift",
+      "line": 64,
+      "symbol": "URL.Scheme.sms",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/Foudantion/URLExtension.swift",
+      "line": 65,
+      "symbol": "URL.Scheme.email",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/ UIViewPropertyAnimator+Extension.swift",
+      "line": 13,
+      "symbol": "UIViewPropertyAnimator.addNext(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIAlertControllerExtension.swift",
+      "line": 99,
+      "symbol": "UIAlertController.setTintColorForAlertController(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIAlertControllerExtension.swift",
+      "line": 145,
+      "symbol": "PopOverPresentationSourceView",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIApplicationExtension.swift",
+      "line": 38,
+      "symbol": "UIApplication.topViewController(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIBarButtonItemExtension.swift",
+      "line": 14,
+      "symbol": "UIBarButtonItem.textColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIBarButtonItemExtension.swift",
+      "line": 19,
+      "symbol": "UIBarButtonItem.titleTextColor(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIBarButtonItemExtension.swift",
+      "line": 23,
+      "symbol": "UIBarButtonItem.setTitleTextColor(_:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIBarButtonItemExtension.swift",
+      "line": 31,
+      "symbol": "UIBarButtonItem.font",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIBarButtonItemExtension.swift",
+      "line": 40,
+      "symbol": "UIBarButtonItem.titleTextFont(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIBarButtonItemExtension.swift",
+      "line": 44,
+      "symbol": "UIBarButtonItem.setTitleTextFont(_:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIButton+Extension.swift",
+      "line": 16,
+      "symbol": "UIButton.build(block:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIButton+Extension.swift",
+      "line": 29,
+      "symbol": "UIButton.setTitle(_:for:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIButton+Extension.swift",
+      "line": 41,
+      "symbol": "UIButton.setAttributedTitle(_:for:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIButton+Extension.swift",
+      "line": 58,
+      "symbol": "UIButton.underline()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIButton+Extension.swift",
+      "line": 63,
+      "symbol": "UIButton.mc_hasText",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIButton+Extension.swift",
+      "line": 69,
+      "symbol": "UIButton.mc_hasNonWhitespaceText",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIButton+Extension.swift",
+      "line": 75,
+      "symbol": "UIButton.mc_hasNonWhitespaceAttributedText",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIButton+Extension.swift",
+      "line": 81,
+      "symbol": "UIButton.mc_hasAttributeText",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIButton+Extension.swift",
+      "line": 87,
+      "symbol": "UIButton.mc_hasAnyText",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIButton+Extension.swift",
+      "line": 90,
+      "symbol": "UIButton.mc_hasAnyNonWhitespaceText",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIButton+Extension.swift",
+      "line": 219,
+      "symbol": "UIButton.setShadow(color:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIButton+Extension.swift",
+      "line": 226,
+      "symbol": "UIButton.setTextBold()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIButton+Extension.swift",
+      "line": 265,
+      "symbol": "UIButton.centerTextAndImage(spacing:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIButton+Extension.swift",
+      "line": 273,
+      "symbol": "UIButton.rightTextAndImage(spacing:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIButton+Extension.swift",
+      "line": 281,
+      "symbol": "UIButton.navBackBtn(imageName:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIButton+Extension.swift",
+      "line": 372,
+      "symbol": "UIButton.initializeMethod()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIButton+Extension.swift",
+      "line": 422,
+      "symbol": "UIButton.point(inside:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UICollectionExtension.swift",
+      "line": 12,
+      "symbol": "Collection.subscript(safe:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIColor+Extension.swift",
+      "line": 11,
+      "symbol": "Color",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIColor+Extension.swift",
+      "line": 20,
+      "symbol": "Color",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIColor+Extension.swift",
+      "line": 145,
+      "symbol": "Color",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIColor+Extension.swift",
+      "line": 220,
+      "symbol": "Color",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+DeviceName.swift",
+      "line": 15,
+      "symbol": "UIDevice.iphone4Or4s",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+DeviceName.swift",
+      "line": 18,
+      "symbol": "UIDevice.ipadPro12Dot9",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+DeviceName.swift",
+      "line": 21,
+      "symbol": "UIDevice.iPadPro11Inch",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+DeviceName.swift",
+      "line": 24,
+      "symbol": "UIDevice.iPad9Dot7InchRetina",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+DeviceName.swift",
+      "line": 28,
+      "symbol": "UIDevice.iPad10Dot5",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+DeviceName.swift",
+      "line": 31,
+      "symbol": "UIDevice.iPhoneXOrLater",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 41,
+      "symbol": "DeviceType.iPhone2G",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 43,
+      "symbol": "DeviceType.iPhone3G",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 44,
+      "symbol": "DeviceType.iPhone3GS",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 46,
+      "symbol": "DeviceType.iPhone4",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 47,
+      "symbol": "DeviceType.iPhone4S",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 49,
+      "symbol": "DeviceType.iPhone5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 50,
+      "symbol": "DeviceType.iPhone5C",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 51,
+      "symbol": "DeviceType.iPhone5S",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 53,
+      "symbol": "DeviceType.iPhone6",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 54,
+      "symbol": "DeviceType.iPhone6Plus",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 56,
+      "symbol": "DeviceType.iPhone6S",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 57,
+      "symbol": "DeviceType.iPhone6SPlus",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 59,
+      "symbol": "DeviceType.iPhoneSE",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 61,
+      "symbol": "DeviceType.iPhone7",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 62,
+      "symbol": "DeviceType.iPhone7Plus",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 64,
+      "symbol": "DeviceType.iPhone8",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 65,
+      "symbol": "DeviceType.iPhone8Plus",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 67,
+      "symbol": "DeviceType.iPhoneX",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 68,
+      "symbol": "DeviceType.iPhoneXs",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 69,
+      "symbol": "DeviceType.iPhoneXr",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 70,
+      "symbol": "DeviceType.iPhoneXsMax",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 71,
+      "symbol": "DeviceType.iPhone11",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 72,
+      "symbol": "DeviceType.iPhone11Pro",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 73,
+      "symbol": "DeviceType.iPhone11ProMax",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 74,
+      "symbol": "DeviceType.iPhoneSE2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 77,
+      "symbol": "DeviceType.iPodTouch1G",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 78,
+      "symbol": "DeviceType.iPodTouch2G",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 79,
+      "symbol": "DeviceType.iPodTouch3G",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 80,
+      "symbol": "DeviceType.iPodTouch4G",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 81,
+      "symbol": "DeviceType.iPodTouch5G",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 82,
+      "symbol": "DeviceType.iPodTouch6G",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 83,
+      "symbol": "DeviceType.iPodTouch7G",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 85,
+      "symbol": "DeviceType.iPad",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 86,
+      "symbol": "DeviceType.iPad2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 87,
+      "symbol": "DeviceType.iPad3",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 88,
+      "symbol": "DeviceType.iPad4",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 89,
+      "symbol": "DeviceType.iPadMini",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 90,
+      "symbol": "DeviceType.iPadMiniRetina",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 91,
+      "symbol": "DeviceType.iPadMini3",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 92,
+      "symbol": "DeviceType.iPadMini4",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 94,
+      "symbol": "DeviceType.iPadAir",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 95,
+      "symbol": "DeviceType.iPadAir2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 97,
+      "symbol": "DeviceType.iPadPro9Inch",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 98,
+      "symbol": "DeviceType.iPadPro10p5Inch",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 99,
+      "symbol": "DeviceType.iPadPro12Inch",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 101,
+      "symbol": "DeviceType.simulator",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 102,
+      "symbol": "DeviceType.notAvailable",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 291,
+      "symbol": "UIDevice.isIpad",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 295,
+      "symbol": "UIDevice.isIPhone",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 299,
+      "symbol": "UIDevice.isCarPlay",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 303,
+      "symbol": "UIDevice.isTV",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIDevice+Extension.swift",
+      "line": 325,
+      "symbol": "UIDevice.hasTopNotch",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIFont+Loader.swift",
+      "line": 12,
+      "symbol": "UIFont.LoaderError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIFont+Loader.swift",
+      "line": 13,
+      "symbol": "UIFont.LoaderError.fontNotFound",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIFont+Loader.swift",
+      "line": 14,
+      "symbol": "UIFont.LoaderError.remoteFontUrlDetected",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIFont+Loader.swift",
+      "line": 15,
+      "symbol": "UIFont.LoaderError.failedToCreateFont",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIFont+Loader.swift",
+      "line": 16,
+      "symbol": "UIFont.LoaderError.failedToRegisterFont",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIFont+Loader.swift",
+      "line": 17,
+      "symbol": "UIFont.LoaderError.failedToUnregisterFont",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIFontExtension.swift",
+      "line": 20,
+      "symbol": "UIFont.Trait.normal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIFontExtension.swift",
+      "line": 21,
+      "symbol": "UIFont.Trait.italic",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIFontExtension.swift",
+      "line": 22,
+      "symbol": "UIFont.Trait.monospace",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIGestureRecognizer+Extension.swift",
+      "line": 12,
+      "symbol": "UIGestureRecognizer.State.isStartingState",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIGestureRecognizer+Extension.swift",
+      "line": 15,
+      "symbol": "UIGestureRecognizer.State.isTerminatingState",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIImage+Extension.swift",
+      "line": 14,
+      "symbol": "UIImage.init(bundleName:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIImage+Extension.swift",
+      "line": 17,
+      "symbol": "UIImage.init(bundleName:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIImage+Extension.swift",
+      "line": 174,
+      "symbol": "UIImage.compressImage()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIImageView+Extensions.swift",
+      "line": 18,
+      "symbol": "UIImageView.build(block:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIImageView+Extensions.swift",
+      "line": 26,
+      "symbol": "UIImageView.isContentModeAutomaticallyAdjusted",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIImageView+Extensions.swift",
+      "line": 74,
+      "symbol": "UIImageView.init(named:top:left:bottom:right:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIImageView+Extensions.swift",
+      "line": 86,
+      "symbol": "UIImageView.download(from:contentMode:placeholder:completionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIImageView+Extensions.swift",
+      "line": 110,
+      "symbol": "UIImageView.blur(withStyle:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIImageView+Extensions.swift",
+      "line": 132,
+      "symbol": "UIImageView.getPixelColorAt(point:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UILabel+Extension.swift",
+      "line": 10,
+      "symbol": "UILabel.build(block:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UILabel+Extension.swift",
+      "line": 18,
+      "symbol": "UILabel.underLine()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UILabel+Extension.swift",
+      "line": 26,
+      "symbol": "UILabel.setAttributeColor(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UILabel+Extension.swift",
+      "line": 39,
+      "symbol": "UILabel.addTapGesture(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UILabel+Extension.swift",
+      "line": 45,
+      "symbol": "UILabel.insertImage(image:index:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UILabel+HasText.swift",
+      "line": 12,
+      "symbol": "UILabel.mc_hasText",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UILabel+HasText.swift",
+      "line": 18,
+      "symbol": "UILabel.mc_hasNonWhitespaceText",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UILabel+HasText.swift",
+      "line": 24,
+      "symbol": "UILabel.mc_hasAttributedText",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UILabel+HasText.swift",
+      "line": 30,
+      "symbol": "UILabel.mc_hasNonWhiteSpaceAttributedText",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UILabel+HasText.swift",
+      "line": 36,
+      "symbol": "UILabel.mc_hasAnyText",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UILabel+HasText.swift",
+      "line": 39,
+      "symbol": "UILabel.mc_hasAnyNonWhitespaceText",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIScreen+Extension.swift",
+      "line": 12,
+      "symbol": "UIScreen.screenWidth",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIScreen+Extension.swift",
+      "line": 15,
+      "symbol": "UIScreen.nativeBoundsHeight",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIScreen+Extension.swift",
+      "line": 18,
+      "symbol": "UIScreen.screenHeight",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIScrollView+Extension.swift",
+      "line": 105,
+      "symbol": "UIScrollView.ScrollingDirection.none",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIScrollView+Extension.swift",
+      "line": 106,
+      "symbol": "UIScrollView.ScrollingDirection.up",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIScrollView+Extension.swift",
+      "line": 107,
+      "symbol": "UIScrollView.ScrollingDirection.down",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIScrollView+Extension.swift",
+      "line": 108,
+      "symbol": "UIScrollView.ScrollingDirection.left",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIScrollView+Extension.swift",
+      "line": 109,
+      "symbol": "UIScrollView.ScrollingDirection.right",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIScrollView+Extension.swift",
+      "line": 110,
+      "symbol": "UIScrollView.ScrollingDirection.unknown",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UITabBarControllerExtension.swift",
+      "line": 50,
+      "symbol": "UITabBarController.hasRootViewController(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UITableView+ConfigureProtocols.swift",
+      "line": 13,
+      "symbol": "UITableView.ConfigureProtocols()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UITableView+ConfigureProtocols.swift",
+      "line": 17,
+      "symbol": "UITableView.configureHeaderView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UITableView+ConfigureProtocols.swift",
+      "line": 20,
+      "symbol": "UITableView.configureFooterView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UITableView+Extension.swift",
+      "line": 148,
+      "symbol": "TableViewCellIdentifier",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UITableView+Extension.swift",
+      "line": 149,
+      "symbol": "TableViewCellIdentifier.reuseIdentifier",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UITableView+Extension.swift",
+      "line": 152,
+      "symbol": "UITableView.dequeueReusableCell(ofClass:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UITextField+Extension.swift",
+      "line": 139,
+      "symbol": "UITextField.TextType.emailAddress",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UITextField+Extension.swift",
+      "line": 140,
+      "symbol": "UITextField.TextType.password",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UITextField+Extension.swift",
+      "line": 141,
+      "symbol": "UITextField.TextType.generic",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UITextField+Extension.swift",
+      "line": 172,
+      "symbol": "UITextField.canPerformAction(_:withSender:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UITextViewExtension.swift",
+      "line": 11,
+      "symbol": "UITextView.mc_hasNonWhitespaceText",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIView+Extension.swift",
+      "line": 195,
+      "symbol": "GradientPoints",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIView+Extension.swift",
+      "line": 197,
+      "symbol": "GradientOrientation",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIView+Extension.swift",
+      "line": 198,
+      "symbol": "GradientOrientation.horizontal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIView+Extension.swift",
+      "line": 198,
+      "symbol": "GradientOrientation.topLeftToBottomRight",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIView+Extension.swift",
+      "line": 198,
+      "symbol": "GradientOrientation.topRightToBottomLeft",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIView+Extension.swift",
+      "line": 198,
+      "symbol": "GradientOrientation.vertical",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIViewController+Extension.swift",
+      "line": 132,
+      "symbol": "UIViewController.isInterfaceLandscape",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIViewController+FloatingButton.swift",
+      "line": 28,
+      "symbol": "UIViewController.addFloatingButton(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIViewExtension.swift",
+      "line": 30,
+      "symbol": "UIView.snapshotImageView(afterScreenUpdates:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIViewExtension.swift",
+      "line": 45,
+      "symbol": "UIView.findViewController()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIViewExtension.swift",
+      "line": 54,
+      "symbol": "UIView.addConstraintsWithFormat(_:views:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIViewExtension.swift",
+      "line": 105,
+      "symbol": "ShakeDirection",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIViewExtension.swift",
+      "line": 106,
+      "symbol": "ShakeDirection.horizontal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIViewExtension.swift",
+      "line": 107,
+      "symbol": "ShakeDirection.vertical",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIViewExtension.swift",
+      "line": 109,
+      "symbol": "AngleUnit",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIViewExtension.swift",
+      "line": 110,
+      "symbol": "AngleUnit.degrees",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIViewExtension.swift",
+      "line": 111,
+      "symbol": "AngleUnit.radians",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIViewExtension.swift",
+      "line": 113,
+      "symbol": "ShakeAnimationType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIViewExtension.swift",
+      "line": 114,
+      "symbol": "ShakeAnimationType.linear",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIViewExtension.swift",
+      "line": 115,
+      "symbol": "ShakeAnimationType.easeIn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIViewExtension.swift",
+      "line": 116,
+      "symbol": "ShakeAnimationType.easeOut",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIViewExtension.swift",
+      "line": 117,
+      "symbol": "ShakeAnimationType.easeInOut",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIViewExtension.swift",
+      "line": 121,
+      "symbol": "UIView.borderColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Extension/UIKit/UIViewExtension.swift",
+      "line": 159,
+      "symbol": "UIView.height",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/GlobalFunc.swift",
+      "line": 203,
+      "symbol": "alert(title:message:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/GlobalFunc.swift",
+      "line": 251,
+      "symbol": "dictionaryOfNames(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Localization/LocalizationManager.swift",
+      "line": 13,
+      "symbol": "LocalizationManager",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Localization/LocalizationManager.swift",
+      "line": 31,
+      "symbol": "LocalizationManager.localizedStringForKey(key:comment:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Localization/LocalizationManager.swift",
+      "line": 35,
+      "symbol": "LocalizationManager.localizedImagePathForImg(imagename:type:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Localization/LocalizationManager.swift",
+      "line": 46,
+      "symbol": "LocalizationManager.setLanguage(languageCode:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Localization/LocalizationManager.swift",
+      "line": 62,
+      "symbol": "LocalizationManager.resetLocalization()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Localization/LocalizationManager.swift",
+      "line": 68,
+      "symbol": "LocalizationManager.getLanguage()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 27,
+      "symbol": "ReachabilityError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 28,
+      "symbol": "ReachabilityError.failedToCreateWithAddress(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 29,
+      "symbol": "ReachabilityError.failedToCreateWithHostname(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 30,
+      "symbol": "ReachabilityError.unableToSetCallback(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 31,
+      "symbol": "ReachabilityError.unableToSetDispatchQueue(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 32,
+      "symbol": "ReachabilityError.unableToGetFlags(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 39,
+      "symbol": "Notification.Name.reachabilityChanged",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 42,
+      "symbol": "Reachability",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 44,
+      "symbol": "Reachability.NetworkReachable",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 45,
+      "symbol": "Reachability.NetworkUnreachable",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 59,
+      "symbol": "Reachability.Connection",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 61,
+      "symbol": "Reachability.Connection.none",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 62,
+      "symbol": "Reachability.Connection.cellular",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 62,
+      "symbol": "Reachability.Connection.unavailable",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 62,
+      "symbol": "Reachability.Connection.wifi",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 73,
+      "symbol": "Reachability.whenReachable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 74,
+      "symbol": "Reachability.whenUnreachable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 77,
+      "symbol": "Reachability.reachableOnWWAN",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 83,
+      "symbol": "Reachability.notificationCenter",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 86,
+      "symbol": "Reachability.currentReachabilityString",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 95,
+      "symbol": "Reachability.connection",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 127,
+      "symbol": "Reachability.init(reachabilityRef:queueQoS:targetQueue:notificationQueue:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 137,
+      "symbol": "Reachability.init(hostname:queueQoS:targetQueue:notificationQueue:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 147,
+      "symbol": "Reachability.init(queueQoS:targetQueue:notificationQueue:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 166,
+      "symbol": "Reachability",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 169,
+      "symbol": "Reachability.startNotifier()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 223,
+      "symbol": "Reachability.stopNotifier()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 232,
+      "symbol": "Reachability.isReachable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 237,
+      "symbol": "Reachability.isReachableViaWWAN",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 243,
+      "symbol": "Reachability.isReachableViaWiFi",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/Reachability.swift",
+      "line": 247,
+      "symbol": "Reachability.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/ReachabilityManager.swift",
+      "line": 57,
+      "symbol": "ReachabilityManager.isConnectedToNetwork()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/ReachabilityManagerType.swift",
+      "line": 14,
+      "symbol": "ReachabilityManagerType.wifi",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/ReachabilityManagerType.swift",
+      "line": 15,
+      "symbol": "ReachabilityManagerType.cellular",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Manager/ReachabilityManagerType.swift",
+      "line": 16,
+      "symbol": "ReachabilityManagerType.none",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/BindableType.swift",
+      "line": 13,
+      "symbol": "BindableType.ViewModelType",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/Cancellable.swift",
+      "line": 14,
+      "symbol": "Cancellable.cancel()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/Configurable.swift",
+      "line": 11,
+      "symbol": "Configurable.ObjectType",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/Configurable.swift",
+      "line": 16,
+      "symbol": "AnyConfigurable",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/Configurable.swift",
+      "line": 17,
+      "symbol": "AnyConfigurable.base",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/Configurable.swift",
+      "line": 19,
+      "symbol": "AnyConfigurable.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/Configurable.swift",
+      "line": 27,
+      "symbol": "AnyConfigurable",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/Copying.swift",
+      "line": 13,
+      "symbol": "Copying.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/DataContaining.swift",
+      "line": 12,
+      "symbol": "DataContaining.ItemType",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/DataContaining.swift",
+      "line": 13,
+      "symbol": "DataContaining.data",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/DataContaining.swift",
+      "line": 17,
+      "symbol": "DataContaining.numberOfItems",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/DataContaining.swift",
+      "line": 20,
+      "symbol": "DataContaining.item(at:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/DataContaining.swift",
+      "line": 29,
+      "symbol": "Array.ItemType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/DataContaining.swift",
+      "line": 30,
+      "symbol": "Array.data",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/DataContaining.swift",
+      "line": 37,
+      "symbol": "MutableDataContaining.data",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/InitializableByEmptyConstructor.swift",
+      "line": 11,
+      "symbol": "InitializableByEmptyConstructor.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/ObjcWakeable.swift",
+      "line": 13,
+      "symbol": "ObjcWakeable.wakeUp()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/PropertyStoring.swift",
+      "line": 12,
+      "symbol": "PropertyStoring.T",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/Responder.swift",
+      "line": 18,
+      "symbol": "Dispatcher.Event",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/Rounded.swift",
+      "line": 24,
+      "symbol": "Rounded.addDefaultRounded()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/RxNill.swift",
+      "line": 12,
+      "symbol": "OptionalType",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/RxNill.swift",
+      "line": 13,
+      "symbol": "OptionalType.Wrapped",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/RxNill.swift",
+      "line": 14,
+      "symbol": "OptionalType.optional",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/SceneTransitionType.swift",
+      "line": 16,
+      "symbol": "SceneTransitionType.root(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/SceneTransitionType.swift",
+      "line": 17,
+      "symbol": "SceneTransitionType.push(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/SceneTransitionType.swift",
+      "line": 18,
+      "symbol": "SceneTransitionType.present(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/SceneTransitionType.swift",
+      "line": 19,
+      "symbol": "SceneTransitionType.alert(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/SceneTransitionType.swift",
+      "line": 20,
+      "symbol": "SceneTransitionType.tabBar(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/Scrollable.swift",
+      "line": 12,
+      "symbol": "Scrollable.scrollOnTop()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/SegueHandleType.swift",
+      "line": 11,
+      "symbol": "SegueHandleType",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/SegueHandleType.swift",
+      "line": 12,
+      "symbol": "SegueHandleType.SegueIdentifier",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/SingleValueEncodingContainer.swift",
+      "line": 13,
+      "symbol": "SingleValueEncodingContainer.codingPath",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/SingleValueEncodingContainer.swift",
+      "line": 15,
+      "symbol": "SingleValueEncodingContainer.encodeNil()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/SingleValueEncodingContainer.swift",
+      "line": 17,
+      "symbol": "SingleValueEncodingContainer.encode(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/SingleValueEncodingContainer.swift",
+      "line": 19,
+      "symbol": "SingleValueEncodingContainer.encode(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/SingleValueEncodingContainer.swift",
+      "line": 21,
+      "symbol": "SingleValueEncodingContainer.encode(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/SingleValueEncodingContainer.swift",
+      "line": 23,
+      "symbol": "SingleValueEncodingContainer.encode(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/SingleValueEncodingContainer.swift",
+      "line": 25,
+      "symbol": "SingleValueEncodingContainer.encode(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/SingleValueEncodingContainer.swift",
+      "line": 27,
+      "symbol": "SingleValueEncodingContainer.encode(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/SingleValueEncodingContainer.swift",
+      "line": 29,
+      "symbol": "SingleValueEncodingContainer.encode(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/SingleValueEncodingContainer.swift",
+      "line": 31,
+      "symbol": "SingleValueEncodingContainer.encode(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/SingleValueEncodingContainer.swift",
+      "line": 33,
+      "symbol": "SingleValueEncodingContainer.encode(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/SingleValueEncodingContainer.swift",
+      "line": 35,
+      "symbol": "SingleValueEncodingContainer.encode(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/Stylable.swift",
+      "line": 12,
+      "symbol": "Stylable.barColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/Stylable.swift",
+      "line": 13,
+      "symbol": "Stylable.tintColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/Stylable.swift",
+      "line": 14,
+      "symbol": "Stylable.statusBarStyle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/Stylable.swift",
+      "line": 19,
+      "symbol": "BasicNavigationBarStyle.barColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/Stylable.swift",
+      "line": 20,
+      "symbol": "BasicNavigationBarStyle.tintColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/Stylable.swift",
+      "line": 21,
+      "symbol": "BasicNavigationBarStyle.statusBarStyle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Protocols/ViewMaskable.swift",
+      "line": 30,
+      "symbol": "ViewMaskable.dismiss(after:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Storage/CoreDataError.swift",
+      "line": 17,
+      "symbol": "CoreDataError.saveFailed(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/Storage/CoreDataError.swift",
+      "line": 18,
+      "symbol": "CoreDataError.deleteFailed(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/AlertView/MSAlertView.swift",
+      "line": 50,
+      "symbol": "MSAlertView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/AlertView/MSAlertView.swift",
+      "line": 133,
+      "symbol": "MSAlertView.showSuccess(message:imageName:duration:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/AlertView/MSAlertView.swift",
+      "line": 144,
+      "symbol": "MSAlertView.showError(message:imageName:duration:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/CountriesSelection/CountiresViewController.swift",
+      "line": 14,
+      "symbol": "CountriesViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/CountriesSelection/CountiresViewController.swift",
+      "line": 15,
+      "symbol": "CountriesViewController.unfilteredCountries",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/CountriesSelection/CountiresViewController.swift",
+      "line": 16,
+      "symbol": "CountriesViewController.filteredCountries",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/CountriesSelection/CountiresViewController.swift",
+      "line": 17,
+      "symbol": "CountriesViewController.majorCountryLocaleIdentifiers",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/CountriesSelection/CountiresViewController.swift",
+      "line": 18,
+      "symbol": "CountriesViewController.delegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/CountriesSelection/CountiresViewController.swift",
+      "line": 19,
+      "symbol": "CountriesViewController.allowMultipleSelection",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/CountriesSelection/CountiresViewController.swift",
+      "line": 20,
+      "symbol": "CountriesViewController.selectedCountries",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/CountriesSelection/CountiresViewController.swift",
+      "line": 137,
+      "symbol": "CountriesViewController.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/CountriesSelection/CountiresViewController.swift",
+      "line": 142,
+      "symbol": "CountriesViewController.viewWillDisappear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/CountriesSelection/CountiresViewController.swift",
+      "line": 166,
+      "symbol": "CountriesViewController.searchBar(_:textDidChange:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/CountriesSelection/CountiresViewController.swift",
+      "line": 204,
+      "symbol": "CountriesViewController.numberOfSections(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/CountriesSelection/CountiresViewController.swift",
+      "line": 208,
+      "symbol": "CountriesViewController.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/CountriesSelection/CountiresViewController.swift",
+      "line": 212,
+      "symbol": "CountriesViewController.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/CountriesSelection/CountiresViewController.swift",
+      "line": 231,
+      "symbol": "CountriesViewController.tableView(_:titleForHeaderInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/CountriesSelection/CountiresViewController.swift",
+      "line": 244,
+      "symbol": "CountriesViewController.sectionIndexTitles(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/CountriesSelection/CountiresViewController.swift",
+      "line": 248,
+      "symbol": "CountriesViewController.tableView(_:sectionForSectionIndexTitle:at:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/CountriesSelection/CountiresViewController.swift",
+      "line": 252,
+      "symbol": "CountriesViewController.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/CountriesSelection/CountriesViewControllerDelegate.swift",
+      "line": 12,
+      "symbol": "CountriesViewControllerDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/CountriesSelection/Country.swift",
+      "line": 14,
+      "symbol": "Country.countryCode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/CountriesSelection/Country.swift",
+      "line": 15,
+      "symbol": "Country.phoneExtension",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/CountriesSelection/Country.swift",
+      "line": 16,
+      "symbol": "Country.isMain",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/CountriesSelection/Country.swift",
+      "line": 17,
+      "symbol": "Country.countryName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/CountriesSelection/Country.swift",
+      "line": 19,
+      "symbol": "Country.emptyCountry",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/CountriesSelection/Country.swift",
+      "line": 21,
+      "symbol": "Country.currentCountry",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/EmptyStateView/MemoryChainEmptyStateView.swift",
+      "line": 20,
+      "symbol": "MemoryChainEmptyStateView.imageView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/EmptyStateView/MemoryChainEmptyStateView.swift",
+      "line": 22,
+      "symbol": "MemoryChainEmptyStateView.textLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/EmptyStateView/MemoryChainEmptyStateView.swift",
+      "line": 24,
+      "symbol": "MemoryChainEmptyStateView.button",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/EmptyStateView/MemoryChainEmptyStateView.swift",
+      "line": 27,
+      "symbol": "MemoryChainEmptyStateView.image",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/EmptyStateView/MemoryChainEmptyStateView.swift",
+      "line": 85,
+      "symbol": "MemoryChainEmptyStateView.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/EmptyStateView/MemoryChainEmptyStateView.swift",
+      "line": 90,
+      "symbol": "MemoryChainEmptyStateView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Gradient/GradientImageView.swift",
+      "line": 73,
+      "symbol": "GradientImageView.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/HorizontalScrollView/HorizontalScrollView.swift",
+      "line": 40,
+      "symbol": "HorizontalScrollView.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/HorizontalScrollView/HorizontalScrollView.swift",
+      "line": 44,
+      "symbol": "HorizontalScrollView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/HorizontalScrollView/HorizontalScrollView.swift",
+      "line": 111,
+      "symbol": "HorizontalScrollView.scrollViewDidEndDragging(_:willDecelerate:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/HorizontalScrollView/HorizontalScrollView.swift",
+      "line": 116,
+      "symbol": "HorizontalScrollView.scrollViewDidEndDecelerating(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipPreferences.swift",
+      "line": 17,
+      "symbol": "MCInformationTipPreferences.Drawing.Arrow",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipPreferences.swift",
+      "line": 19,
+      "symbol": "MCInformationTipPreferences.Drawing.Arrow.tip",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipPreferences.swift",
+      "line": 20,
+      "symbol": "MCInformationTipPreferences.Drawing.Arrow.size",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipPreferences.swift",
+      "line": 21,
+      "symbol": "MCInformationTipPreferences.Drawing.Arrow.tipCornerRadius",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipPreferences.swift",
+      "line": 27,
+      "symbol": "MCInformationTipPreferences.Drawing.Bubble.Border",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipPreferences.swift",
+      "line": 28,
+      "symbol": "MCInformationTipPreferences.Drawing.Bubble.Border.color",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipPreferences.swift",
+      "line": 29,
+      "symbol": "MCInformationTipPreferences.Drawing.Bubble.Border.width",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipPreferences.swift",
+      "line": 31,
+      "symbol": "MCInformationTipPreferences.Drawing.Bubble.inset",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipPreferences.swift",
+      "line": 32,
+      "symbol": "MCInformationTipPreferences.Drawing.Bubble.spacing",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipPreferences.swift",
+      "line": 33,
+      "symbol": "MCInformationTipPreferences.Drawing.Bubble.cornerRadius",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipPreferences.swift",
+      "line": 34,
+      "symbol": "MCInformationTipPreferences.Drawing.Bubble.maxWidth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipPreferences.swift",
+      "line": 35,
+      "symbol": "MCInformationTipPreferences.Drawing.Bubble.color",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipPreferences.swift",
+      "line": 41,
+      "symbol": "MCInformationTipPreferences.Drawing.Bubble.gradientColors",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipPreferences.swift",
+      "line": 42,
+      "symbol": "MCInformationTipPreferences.Drawing.Bubble.gradientLocations",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipPreferences.swift",
+      "line": 43,
+      "symbol": "MCInformationTipPreferences.Drawing.Bubble.border",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipPreferences.swift",
+      "line": 48,
+      "symbol": "MCInformationTipPreferences.Drawing.Title.font",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipPreferences.swift",
+      "line": 49,
+      "symbol": "MCInformationTipPreferences.Drawing.Title.color",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipPreferences.swift",
+      "line": 55,
+      "symbol": "MCInformationTipPreferences.Drawing.Message.font",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipPreferences.swift",
+      "line": 56,
+      "symbol": "MCInformationTipPreferences.Drawing.Message.color",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipPreferences.swift",
+      "line": 63,
+      "symbol": "MCInformationTipPreferences.Drawing.Button.font",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipPreferences.swift",
+      "line": 64,
+      "symbol": "MCInformationTipPreferences.Drawing.Button.color",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipPreferences.swift",
+      "line": 69,
+      "symbol": "MCInformationTipPreferences.Drawing.Background.color",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipPreferences.swift",
+      "line": 76,
+      "symbol": "MCInformationTipPreferences.Drawing.Background.gradientColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipPreferences.swift",
+      "line": 77,
+      "symbol": "MCInformationTipPreferences.Drawing.Background.gradientLocation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipPreferences.swift",
+      "line": 137,
+      "symbol": "MCInformationTipPreferences.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipView.swift",
+      "line": 24,
+      "symbol": "MCInformationTipView.MCArrowPosition",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipView.swift",
+      "line": 25,
+      "symbol": "MCInformationTipView.MCArrowPosition.bottom",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipView.swift",
+      "line": 25,
+      "symbol": "MCInformationTipView.MCArrowPosition.left",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipView.swift",
+      "line": 25,
+      "symbol": "MCInformationTipView.MCArrowPosition.right",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipView.swift",
+      "line": 25,
+      "symbol": "MCInformationTipView.MCArrowPosition.top",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/InformationTipsView/MCInformationTipView.swift",
+      "line": 153,
+      "symbol": "MCInformationTipView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/GiftImage.swift",
+      "line": 12,
+      "symbol": "GiftImage",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/IntroducationImageProtocol.swift",
+      "line": 11,
+      "symbol": "IntroducationImagePosition",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/IntroducationImageProtocol.swift",
+      "line": 12,
+      "symbol": "IntroducationImagePosition.always",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/IntroducationImageProtocol.swift",
+      "line": 13,
+      "symbol": "IntroducationImagePosition.pageIndex(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/IntroducationImageProtocol.swift",
+      "line": 17,
+      "symbol": "IntroducationVideoProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/IntroducationImageProtocol.swift",
+      "line": 18,
+      "symbol": "IntroducationVideoProtocol.introducationPageDidClickEnterButton(enterButton:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/IntroducationImageProtocol.swift",
+      "line": 19,
+      "symbol": "IntroducationVideoProtocol.introducationPageCustomizedViews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/IntroducationImageProtocol.swift",
+      "line": 25,
+      "symbol": "IntroducationImageProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/IntroducationImageProtocol.swift",
+      "line": 26,
+      "symbol": "IntroducationImageProtocol.introducationPageCustomizedPageControl(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/IntroducationImageProtocol.swift",
+      "line": 27,
+      "symbol": "IntroducationImageProtocol.introducationPageCustomizedEnterButton(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/IntroducationImageProtocol.swift",
+      "line": 28,
+      "symbol": "IntroducationImageProtocol.introducationPageCustomizedView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/IntroducationView.swift",
+      "line": 15,
+      "symbol": "IntroducationView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/IntroducationView.swift",
+      "line": 27,
+      "symbol": "IntroducationView.init(frame:imageNameGroup:imageDelegate:showNewVersion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/IntroducationView.swift",
+      "line": 93,
+      "symbol": "IntroducationView.init(frame:videoName:delegate:showNewVersion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/IntroducationView.swift",
+      "line": 117,
+      "symbol": "IntroducationView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/IntroducationView.swift",
+      "line": 131,
+      "symbol": "IntroducationView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/IntroducationView.swift",
+      "line": 132,
+      "symbol": "IntroducationView.scrollViewDidEndDecelerating(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/PageControl.swift",
+      "line": 13,
+      "symbol": "PageControlAlignment",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/PageControl.swift",
+      "line": 14,
+      "symbol": "PageControlAlignment.center",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/PageControl.swift",
+      "line": 14,
+      "symbol": "PageControlAlignment.left",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/PageControl.swift",
+      "line": 14,
+      "symbol": "PageControlAlignment.right",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/PageControl.swift",
+      "line": 17,
+      "symbol": "PageControl",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/PageControl.swift",
+      "line": 18,
+      "symbol": "PageControl.numberOfPages",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/PageControl.swift",
+      "line": 24,
+      "symbol": "PageControl.spacing",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/PageControl.swift",
+      "line": 30,
+      "symbol": "PageControl.dotSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/PageControl.swift",
+      "line": 35,
+      "symbol": "PageControl.currentDotSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/PageControl.swift",
+      "line": 40,
+      "symbol": "PageControl.alignment",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/PageControl.swift",
+      "line": 45,
+      "symbol": "PageControl.dotRadius",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/PageControl.swift",
+      "line": 50,
+      "symbol": "PageControl.currentDotRadius",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/PageControl.swift",
+      "line": 55,
+      "symbol": "PageControl.currentPage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/PageControl.swift",
+      "line": 61,
+      "symbol": "PageControl.currentPageIndicatorTintColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/PageControl.swift",
+      "line": 66,
+      "symbol": "PageControl.pageIndicatorTintColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/PageControl.swift",
+      "line": 71,
+      "symbol": "PageControl.dotImage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/PageControl.swift",
+      "line": 76,
+      "symbol": "PageControl.currentDotImage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/PageControl.swift",
+      "line": 81,
+      "symbol": "PageControl.isHiddenForSinglePage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/PageControl.swift",
+      "line": 174,
+      "symbol": "PageControl",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Introducation/PageControl.swift",
+      "line": 175,
+      "symbol": "PageControl.hitTest(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/LongPressRecordButton/LongPressRecordButton.swift",
+      "line": 20,
+      "symbol": "LongPressRecordButtonDelegate.longPressRecordButtonShouldShowToolTips(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/LongPressRecordButton/LongPressRecordButton.swift",
+      "line": 21,
+      "symbol": "LongPressRecordButtonDelegate.longPressRecordButtonDidShowToolTip(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/LongPressRecordButton/LongPressRecordButton.swift",
+      "line": 28,
+      "symbol": "LongPressRecordButton.delegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/LongPressRecordButton/LongPressRecordButton.swift",
+      "line": 30,
+      "symbol": "LongPressRecordButton.minPressDuration",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/LongPressRecordButton/LongPressRecordButton.swift",
+      "line": 32,
+      "symbol": "LongPressRecordButton.ringWidth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/MulticastDelegate.swift",
+      "line": 16,
+      "symbol": "MulticastDelegate.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/NavigationViewController/NavigationController.swift",
+      "line": 23,
+      "symbol": "NavigationController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/NavigationViewController/NavigationController.swift",
+      "line": 28,
+      "symbol": "NavigationController.pushViewController(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/NavigationViewController/NavigationController.swift",
+      "line": 61,
+      "symbol": "NavigationController.gestureRecognizerShouldBegin(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/NavigationViewController/NavigationController.swift",
+      "line": 73,
+      "symbol": "NavigationController.navigationController(_:didShow:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/NavigationViewController/PopingNavigationController.swift",
+      "line": 22,
+      "symbol": "PopingNavigationController.navigationController(_:willShow:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/NavigationViewController/PopingNavigationController.swift",
+      "line": 26,
+      "symbol": "PopingNavigationController.navigationController(_:animationControllerFor:from:to:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/NavigationViewController/StylableNavigationController.swift",
+      "line": 38,
+      "symbol": "StylableNavigationController.preferredStatusBarStyle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/NavigationViewController/StylableNavigationController.swift",
+      "line": 67,
+      "symbol": "StylableNavigationController.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/NavigationViewController/StylableNavigationController.swift",
+      "line": 72,
+      "symbol": "StylableNavigationController.pushViewController(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/NavigationViewController/StylableNavigationController.swift",
+      "line": 95,
+      "symbol": "StylableNavigationController.setNeedsNavigationBarAppearanceUpdate()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/PassThroughView/PassThroughView.swift",
+      "line": 21,
+      "symbol": "PassthroughView.hitTest(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/PassThroughView/PassThroughView.swift",
+      "line": 42,
+      "symbol": "PassthroughStackView.hitTest(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/RefreshView/RefreshView.swift",
+      "line": 96,
+      "symbol": "RefreshView.scrollViewDidScroll(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/RoundedView/RoundedView.swift",
+      "line": 11,
+      "symbol": "RoundedView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/RoundedView/RoundedView.swift",
+      "line": 12,
+      "symbol": "RoundedView.layerClass",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/RoundedView/RoundedView.swift",
+      "line": 20,
+      "symbol": "RoundedView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Router/Options.swift",
+      "line": 12,
+      "symbol": "Router.Route.Options",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Router/Options.swift",
+      "line": 13,
+      "symbol": "Router.Route.Options.Transition",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Router/Options.swift",
+      "line": 16,
+      "symbol": "Router.Route.Options.Transition.push",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Router/Options.swift",
+      "line": 17,
+      "symbol": "Router.Route.Options.Transition.modal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Router/Options.swift",
+      "line": 20,
+      "symbol": "Router.Route.Options.transition",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Router/Options.swift",
+      "line": 21,
+      "symbol": "Router.Route.Options.isAnimated",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Router/Options.swift",
+      "line": 23,
+      "symbol": "Router.Route.Options.init(transition:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Router/Options.swift",
+      "line": 32,
+      "symbol": "Router.Route.Options",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Router/RouteType.swift",
+      "line": 15,
+      "symbol": "Router.RouteType.viewController(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Router/RouteType.swift",
+      "line": 17,
+      "symbol": "Router.RouteType.custom(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Router/RouteType.swift",
+      "line": 19,
+      "symbol": "Router.RouteType.custom",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/SideBar/SideBarViewController.swift",
+      "line": 55,
+      "symbol": "SideBarViewController.viewDidLayoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/SideBar/SideBarViewController.swift",
+      "line": 160,
+      "symbol": "SideBarViewController.gestureRecognizer(_:shouldReceive:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/TabBarController/BadgeAppearance.swift",
+      "line": 35,
+      "symbol": "UIView.badge(text:badgeEdgeInsets:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/TabBarController/BadgeAppearance.swift",
+      "line": 42,
+      "symbol": "UIView.badge(text:badgeEdgeInsets:appearance:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/TabBarController/TabBarButton.swift",
+      "line": 114,
+      "symbol": "TabBarButton.layoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/TabBarController/TabBarController.swift",
+      "line": 75,
+      "symbol": "TabBarController.highlightColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/TabBarController/TabBarController.swift",
+      "line": 227,
+      "symbol": "TabBarController.preferredStatusBarStyle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/TabBarController/TabBarController.swift",
+      "line": 231,
+      "symbol": "TabBarController.childForStatusBarStyle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/TabBarController/TabBarController.swift",
+      "line": 315,
+      "symbol": "TabBarController.loadView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/TabBarController/TabBarController.swift",
+      "line": 391,
+      "symbol": "TabBarController.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/TabBarController/TabBarController.swift",
+      "line": 399,
+      "symbol": "TabBarController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/TabBarController/TabBarController.swift",
+      "line": 404,
+      "symbol": "TabBarController.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/TabBarController/TabBarController.swift",
+      "line": 431,
+      "symbol": "TabBarController.didRotate(from:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/TabBarController/TabBarController.swift",
+      "line": 436,
+      "symbol": "TabBarController.viewSafeAreaInsetsDidChange()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/TabBarController/TabBarController.swift",
+      "line": 1135,
+      "symbol": "UIViewController.currentTabBar",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Weak.swift",
+      "line": 23,
+      "symbol": "Weak.value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Weak.swift",
+      "line": 25,
+      "symbol": "Weak.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/Weak.swift",
+      "line": 35,
+      "symbol": "Weak.==(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/popupview/RYIn.swift",
+      "line": 10,
+      "symbol": "RYIn",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/popupview/RYIn.swift",
+      "line": 11,
+      "symbol": "RYIn",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/popupview/RYIn.swift",
+      "line": 18,
+      "symbol": "RYIn",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/popupview/RYPopupView.swift",
+      "line": 65,
+      "symbol": "RYPopupView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/progressHUD/MCLabel.swift",
+      "line": 70,
+      "symbol": "MCLabel.layoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/progressHUD/MCProgressHUD.swift",
+      "line": 98,
+      "symbol": "MCProgressHUD.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/progressHUD/MCProgressHUD.swift",
+      "line": 101,
+      "symbol": "MCProgressHUD.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/user/Desktop/workspace/RYKit/RYKit/Sources/UI Component/progressHUD/PopTransition.swift",
+      "line": 14,
+      "symbol": "PopTransition.transitionDuration(using:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/user/Desktop/workspace/RYKit"
+}

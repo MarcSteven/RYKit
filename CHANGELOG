@@ -1,0 +1,25 @@
+# v 0.0.1
+* accomplish the first version
+
+# v 0.0.2
+* 1, Fixed the warnings 
+* 2, add documents
+* 3, Add addtional extensions method 
+# v0.0.3
+* 1, add LyricParser protocol and some addtional extensions
+* 2, add DI about the useful third_parties
+
+
+# v0.1.5
+* add extension for UIViewController to add floating button becasue in the proje
+-ct there are lots of ViewControllers need to use it global
+
+
+# V 0.1.6
+Add RYUIHelper tool to check the device 
+Add round protocol to make UI Rounded 
+Add UIDevice check based on height
+Add network manager to check the internet, for instance when offline, load the local database
+
+# v0.2.1
+add string extension method to check whether it's chinese, has blank,password validation and etc
